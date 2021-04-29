@@ -1,0 +1,26 @@
+nav{
+    background-color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav ul li{
+    padding: 10px;
+    border-right: 5px solid #f1f1f1;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+nav ul li a:hover{
+    color: blue;
+}
